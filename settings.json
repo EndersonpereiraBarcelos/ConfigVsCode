@@ -1,0 +1,46 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    // "editor.rulers": [80,120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": true,
+    "files.autoSave": "afterDelay",
+    "redhat.telemetry.enabled": true,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-windows": "C:\\Users\\ender\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vscode-kubernetes.minikube-path-windows": "C:\\Users\\ender\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "snyk.yesWelcomeNotification": false,
+    "snyk.folderConfigs": [
+        {
+            "folderPath": "c:\\Users\\ender\\Documents\\datascience",
+            "baseBranch": "master",
+            "localBranches": [
+                "master"
+            ]
+        }
+    ],
+    "snyk.trustedFolders": [
+        "c:\\Users\\ender\\Documents\\datascience",
+        "c:\\Users\\ender\\Documents\\astro-paper"
+    ],
+    "editor.wordWrap": "on",
+    "snyk.advanced.cliPath": "C:\\Users\\ender\\AppData\\Local\\snyk-ls\\snyk-win.exe",
+    "workbench.productIconTheme": "fluent-icons",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "git.autofetch": true
+}
